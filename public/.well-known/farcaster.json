@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJhaWFnZW50Zm9yZ2UuYmFzZS54eXoifQ",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "next",
+    "name": "AI Agent Forge",
+    "iconUrl": "https://aiagentforge.base.xyz/icon.png",
+    "splashImageUrl": "https://aiagentforge.base.xyz/splash.png",
+    "splashBackgroundColor": "#001e3c",
+    "homeUrl": "https://aiagentforge.base.xyz",
+    "webhookUrl": "https://aiagentforge.base.xyz/api/webhook",
+    "subtitle": "Co-create, train, and deploy personalized AI agents",
+    "description": "Empower Farcaster users to define, train, and personalize AI agents as social companions or utility tools, leveraging onchain identity within a Base Mini App.",
+    "screenshotUrls": [
+      "https://aiagentforge.base.xyz/screenshot1.png",
+      "https://aiagentforge.base.xyz/screenshot2.png",
+      "https://aiagentforge.base.xyz/screenshot3.png"
+    ],
+    "primaryCategory": "social",
+    "tags": ["ai", "agents", "farcaster", "base", "onchain"],
+    "heroImageUrl": "https://aiagentforge.base.xyz/hero.png",
+    "tagline": "Your intelligent companion on Base",
+    "ogTitle": "AI Agent Forge - Build Your AI Agent",
+    "ogDescription": "Co-create, train, and deploy personalized AI agents for Farcaster on Base",
+    "ogImageUrl": "https://aiagentforge.base.xyz/og.png"
+  }
+}
