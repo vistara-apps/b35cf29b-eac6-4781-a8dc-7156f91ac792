@@ -1,0 +1,14 @@
+{
+  "name": "AI Agent Forge",
+  "description": "AI Agent Forge is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://b35cf29b-eac6-4781-a8dc-7156f91ac792.vercel.app",
+  "properties": {
+    "app": {
+      "name": "AI Agent Forge",
+      "description": "AI Agent Forge is a Base Mini App built with Zara.",
+      "url": "https://b35cf29b-eac6-4781-a8dc-7156f91ac792.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
